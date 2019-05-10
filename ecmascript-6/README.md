@@ -59,7 +59,3 @@
 
 ##### Run Eslint
   - $ ./node_modules/.bin/eslint src/main.js
-
-
-
-https://station.rocketseat.com.br/courses/starter/e6100adf-08fb-4699-8567-b3690eb1cc21#0/7
